@@ -7,3 +7,4 @@ def fibonacci(n):
   return memo[n]
 
 print(fibonacci(8))
+print(memo)
